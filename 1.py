@@ -52,7 +52,7 @@ P - R
 			elif buk == б :
  			    print ('ß в')
 			elif buk == в :
-    			print ('Б б ')
+    			print ('Б б')
 			elif buk == г :
   			    print ('Ƶ ƶ')
 			elif buk == д :
@@ -76,47 +76,43 @@ P - R
 			elif buk == м :
 			    print ('μ')
 			elif buk == н :
-        		print ('N η')
+        		    print ('N η')
 			elif buk == о :
-    			print ('∫ или f')
+    			    print ('∫ или f')
 			elif buk == п :
-    			print ('п')
+    			    print ('п')
 			elif buk == р :
-    			print ('R')
+    			    print ('R')
 			elif buk == c :
-    			print ('ᴓ')
+    			    print ('ᴓ')
 			elif buk == т :
-    			print ('Ĥ h')
+    			    print ('Ĥ h')
 			elif buk == у :
-    			print ('Λ λ')
+    			    print ('Λ λ')
 			elif buk == ф :
-    			print ('∫ или f')
+    			    print ('∫ или f')
 			elif buk == х :
-    			print ('א  или х ')
+    			    print ('א  или х ')
 			elif buk == ц :
-    			print ('č')
+    			    print ('č')
 			elif buk == ч :
-    			print ('қ')
+    			    print ('қ')
 			elif buk == ш :
-    			print ('u')
+    			    print ('u')
 			elif buk == щ :
-    			print ('ü')
+    			    print ('ü')
 			elif buk == ъ :
-    			print ('ъ')
+    			    print ('ъ')
 			elif buk == ы :
-    			print ('ʊ или Ů')
+    			    print ('ʊ или Ů')
 			elif buk == ь :
-    			print ('ь')
+    			    print ('ь')
 			elif buk == э :
-    			print ('ү')
+    			    print ('ү')
 			elif buk == ю :
-    			print ('ⅎ или ю')
+    			    print ('ⅎ или ю')
 			elif buk == я :
-    			print ('J, j')
-
-
-
-
+    			    print ('J, j')
 
 
 
